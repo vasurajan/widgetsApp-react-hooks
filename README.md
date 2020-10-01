@@ -3,7 +3,7 @@ These are going to be four separate pages that don't really have any connection 
 Then I have wired using some very simple navigation. <br />
 The entire goal of this application and these four different widgets is to show some different hooks inside of react.<br />
 1. Accordion(useState) <br />
-2. List(useState & useEffect) <br />
+2. Search(useState & useEffect) <br />
 3. Dropdown(useState,useEffect & useRef) <br />
 4. Translate(useState,useEffect & useRef)  <br />
 
