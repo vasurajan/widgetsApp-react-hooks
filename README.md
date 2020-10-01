@@ -1,3 +1,12 @@
+Build out an app that has couple of different widgets put together :-<br />
+These are going to be four separate pages that don't really have any connection besides the fact that they're all inside the same app. <br />
+Then I have wired using some very simple navigation. <br />
+The entire goal of this application and these four different widgets is to show some different hooks inside of react.<br />
+1. Accordion(useState) <br />
+2. List(useState & useEffect) <br />
+3. Dropdown(useState,useEffect & useRef) <br />
+4. Translate(useState,useEffect & useRef)  <br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
