@@ -7,6 +7,16 @@ The entire goal of this application and these four different widgets is to show 
 3. Dropdown(useState,useEffect & useRef) <br />
 4. Translate(useState,useEffect & useRef)  <br />
 
+
+
+
+![widgetsApp-react-hooks](https://user-images.githubusercontent.com/63305945/95092859-bc67f700-0745-11eb-8c7c-8c473a853f16.gif)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
